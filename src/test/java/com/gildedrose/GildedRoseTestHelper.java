@@ -1,5 +1,7 @@
 package com.gildedrose;
 
+import com.gildedrose.models.Item;
+
 /**
  * Class contains all tests shared utils.
  */

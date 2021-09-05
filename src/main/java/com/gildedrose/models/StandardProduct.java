@@ -1,7 +1,5 @@
 package com.gildedrose.models;
 
-import com.gildedrose.Item;
-
 public class StandardProduct implements BasicItem {
 
     private final Item item;
